@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff37ce-20d8-4ba9-83a4-65abfafc49a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/UIR-Rabat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo-color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pepper2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training/dpo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training/instruction-tuning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training/pre-training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoLE.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/MoLE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/robot.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +94,7 @@
       <workItem from="1733521853169" duration="563000" />
       <workItem from="1739181755859" duration="7483000" />
       <workItem from="1739267911329" duration="2000" />
-      <workItem from="1739637822133" duration="3050000" />
+      <workItem from="1739637822133" duration="6413000" />
     </task>
     <servers />
   </component>
