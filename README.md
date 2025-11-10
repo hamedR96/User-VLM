@@ -53,3 +53,5 @@ If you use User-VLM 360° in your research, please cite:
   journal   = {arXiv preprint arXiv:<ARXIV_PAPER_ID>},
   year      = {2025}
 }
+### Acknowledgment
+The authors would like to express their sincere appreciation to the euROBIN – European ROBotics and AI Network project (Horizon Europe Grant Agreement No 101070596) for its invaluable contributions to advancing research and collaboration in robotics and artificial intelligence. The project’s vision of fostering knowledge sharing, interoperability, and human-centric robotics across Europe has provided significant inspiration and context for this work. We gratefully acknowledge the efforts of all euROBIN partners in building a unified European ecosystem for robotics research and innovation.
